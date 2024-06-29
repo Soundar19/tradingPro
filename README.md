@@ -34,6 +34,9 @@ password - 12345678
 1.cd my-websocket-project
 2.npm install
 3.node server.js
+<img width="337" alt="image" src="https://github.com/Soundar19/tradingPro/assets/96820575/626b837b-041a-49d0-aa3c-f673c4cdee8a">
+<img width="331" alt="image" src="https://github.com/Soundar19/tradingPro/assets/96820575/bd5e1d82-99c8-4e2d-97f6-c3cf0630de55">
+
 
 
 
