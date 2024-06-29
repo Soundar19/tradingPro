@@ -16,8 +16,8 @@ This is a simplified trading application that includes features for real-time da
 
 ### Prerequisites
 
-- [Flutter] (version 3.13.5)
-- [Dart] (version 3.1.2)
+- [Flutter] (version 3.7.11)
+- [Dart] (version 2.19.6)
 - Node.js (for running the mock WebSocket server)
 
 ### Run the Application
